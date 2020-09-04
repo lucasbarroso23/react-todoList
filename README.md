@@ -1,4 +1,4 @@
-# Você pode acessar esse projeto através desse [link](https://react-todo-list-eight.vercel.app/)
+# Você pode acessar esse projeto através desse [link](https://react-todo-list-eight.vercel.app/){:target="_blank" rel="noopener"}
 
 ![Screenshot_1](https://user-images.githubusercontent.com/55262061/92247170-35e99c80-ee9d-11ea-9271-ddf600152df1.png)
 
